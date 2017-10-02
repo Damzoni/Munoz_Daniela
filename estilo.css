@@ -80,7 +80,7 @@ video{
 	min-height:300px;
 	text-align:left;
 	background-color:rgba(217,217,217,1);
-	background-image:url('media/foto-personal.jpg');
+	background-image:url('media/foto-personal1.jpg');
 	background-position:top right;
 	background-repeat:no-repeat;
 	background-size:auto 100%;
@@ -97,6 +97,7 @@ video{
 	min-height:300px;
 	text-align:right;
 	background-color:rgba(217,217,217,1);
+	background-image:url('media/foto-personal2.jpg');
 	background-position:top left;
 	background-repeat:no-repeat;
 	background-size:auto 100%;
@@ -128,22 +129,22 @@ video{
 
 @-webkit-keyframes fondo {
 	from {background-color:rgba(250,129,129,1);}
-	to {background-color:rgba(18,20,34,0.5);}
+	to {background-color:rgba(217,217,217,1);}
 }
 
 @-moz-keyframes fondo {
 	from {background-color:rgba(250,129,129,1);}
-	to {background-color:rgba(18,20,34,0.5);}
+	to {background-color:rgba(217,217,217,1);}
 }
 
 @-ms-keyframes fondo {
 	from {background-color:rgba(250,129,129,1);}
-	to {background-color:rgba(18,20,34,0.5);}
+	to {background-color:rgba(217,217,217,1);}
 }
 
 @keyframes fondo {
 	from {background-color:rgba(250,129,129,1);}
-	to {background-color:rgba(18,20,34,0.5);}
+	to {background-color:rgba(217,217,217,1);}
 }
 
 .item {
@@ -223,3 +224,4 @@ footer hr{
 	width:20%;
 	}
 }
+
